@@ -4,9 +4,6 @@ Welcome to my Data Science Projects Repository! This repository contains a colle
 
 
 
-### GitHub Page 
-[![Data-Science-Projects](https://img.shields.io/badge/Data_Science_Projects-GitHub_Page-%2300BFFF.svg)](https://sukhman-singh-1612.github.io/data_science/)
-
 ## Projects
 1. [Breast Cancer Prediction](https://github.com/SUKHMAN-SINGH-1612/Data-Science-Projects/tree/main/Breast%20Cancer%20Prediction)
    - **Description:** The project predicts the diagnosis (M = malignant, B = benign) of the Breast Cancer
